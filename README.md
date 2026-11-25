@@ -2,6 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** na **PUC Minas**  
 💻 Gosto de desenvolvimento web e de automatizar coisas com Python  
+🌱 Aprendendo agora: Supabase, PWAs e desenvolvimento de jogos com Pygame  
 🚀 Sempre construindo projetos novos para aprender na prática
 
 ### 🛠️ Tecnologias
